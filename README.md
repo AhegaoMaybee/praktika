@@ -21,13 +21,13 @@
   
 ## Описание проекта
 - Сервера
-  >
+  > OPDS server(Amuse Wiki), Microsoft Access (SQL Server)
 - Приложения
-  >
+  > Amuse Wiki
 - СУБД
-  >
+  > Microsoft Access
 - Прикладное ПО
-  >
+  > ?
   
 ## Описание условного места установки
 - Госучреждения
