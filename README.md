@@ -18,9 +18,9 @@
   
 ## Описание проекта
 - Сервера
-  > Веб-сервер( )
+  > Веб-сервер( Nginx )
 - СУБД
-  > Microsoft Access
+  > Microsoft Access ( MySQL )
 - Прикладное ПО
   > Amuse Wiki
   
