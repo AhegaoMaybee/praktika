@@ -20,7 +20,7 @@
 - Сервера
   > Веб-сервер( Nginx )
 - СУБД
-  > Microsoft Access ( MySQL )
+  > Microsoft Access or PostgreSQL
 - Прикладное ПО
   > Amuse Wiki
   
